@@ -39,4 +39,6 @@ Install Office365 API Package Directly from Github
   pip install git+https://github.com/vgrem/Office365-REST-Python-Client.git#egg=Office365-REST-Python-Client
 ```
 
+## Video Explanation 
+https://www.youtube.com/watch?v=dkxVTX5Hs_Q
     
